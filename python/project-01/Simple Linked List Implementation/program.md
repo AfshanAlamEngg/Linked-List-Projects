@@ -82,7 +82,7 @@ if __name__ == "__main__":
 
 ```
 
-##Explanation
+## Explanation
 1. Node Class: Represents a node in the linked list.
 - __init__: Initializes the node with data and sets the next pointer to None.
 2. LinkedList Class: Manages the linked list operations.
